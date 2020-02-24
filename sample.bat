@@ -1,2 +1,2 @@
 echo i am inside bat
-echo i am done
+echo i am done test
